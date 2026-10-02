@@ -23,9 +23,3 @@
   [`@osrs-tracker`](https://www.npmjs.com/org/osrs-tracker) npm packages.
 
 The other repositories are archived earlier versions of OSRS Tracker.
-
-## Development
-
-OSRS Tracker was originally built entirely without AI assistance. Since October 2026, I've started using
-[Claude](https://claude.com/claude-code), Anthropic's AI coding assistant, to help improve development speed and
-reliability.
