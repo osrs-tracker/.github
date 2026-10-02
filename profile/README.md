@@ -9,5 +9,23 @@
 
   <br />
 
-  <p align="center">Keep track of everything that matters in Old School Runescape. <br>Track the latest news, item prices, hiscores, and XP gains.</p>
+  <p align="center">Keep track of everything that matters in Old School RuneScape. <br>Track the latest news, item prices, hiscores, and XP gains.</p>
 </div>
+
+## Projects
+
+- **[osrs-tracker-web](https://github.com/osrs-tracker/osrs-tracker-web)**: the website, with the XP Tracker, Price
+  Tracker and the latest OSRS news.
+- **[osrs-tracker-api](https://github.com/osrs-tracker/osrs-tracker-api)**: the API that serves player, item and news
+  data to the website.
+- **[osrs-tracker-aws](https://github.com/osrs-tracker/osrs-tracker-aws)**: background jobs that save a daily snapshot
+  of every tracked player and keep the item list up to date, plus the shared
+  [`@osrs-tracker`](https://www.npmjs.com/org/osrs-tracker) npm packages.
+
+The other repositories are archived earlier versions of OSRS Tracker.
+
+## Development
+
+OSRS Tracker was originally built entirely without AI assistance. Since October 2026, I've started using
+[Claude](https://claude.com/claude-code), Anthropic's AI coding assistant, to help improve development speed and
+reliability.
