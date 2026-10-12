@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://osrs-tracker.freekmencke.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/osrs-tracker/osrs-tracker-web/raw/main/src/favicon-dark.png">
-      <img alt="OSRS Tracker" src="https://github.com/osrs-tracker/osrs-tracker-web/raw/main/src/favicon.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/osrs-tracker/osrs-tracker-web/raw/main/public/favicon-dark.png">
+      <img alt="OSRS Tracker" src="https://github.com/osrs-tracker/osrs-tracker-web/raw/main/public/favicon.png">
     </picture>
     <div>Visit OSRS Tracker</div>
   </a>
