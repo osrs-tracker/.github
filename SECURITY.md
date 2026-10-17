@@ -18,7 +18,7 @@ Include the affected repository or URL, steps to reproduce, and the impact you e
 
 ## What to expect
 
-- An acknowledgement within a week.
+- An acknowledgement of your report.
 - A fix, or an explanation of why no change is needed, as soon as is practical for a project maintained by one person.
 - Credit in the advisory if you want it.
 
