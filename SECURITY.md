@@ -6,6 +6,9 @@ This policy covers every public repository in the osrs-tracker organization that
 
 Only what is deployed from each repository's `main` branch is supported. Older tags and releases get no fixes.
 
+For the [`@osrs-tracker`](https://www.npmjs.com/org/osrs-tracker) npm packages (osrs-tracker-packages), only the latest
+published version of each package gets fixes.
+
 ## Reporting a vulnerability
 
 Please don't open a public issue. Report it privately instead:
